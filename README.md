@@ -16,6 +16,4 @@
 [<img align="left" alt="Lois | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Lois | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Lois
-[instagram]: https://www.instagram.com/Lois
 [linkedin]: https://linkedin.com/in/Lois
